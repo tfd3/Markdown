@@ -1,5 +1,5 @@
 ---
-title: "New MD"
+title: "index.Rmd"
 author: "Taylor Demetriou"
 date: "5/12/2021"
 output: html_document
